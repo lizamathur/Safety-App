@@ -1,0 +1,10 @@
+<resources xmlns:padding-left="http://schemas.android.com/tools">
+
+    <string name="app_name">Avrik</string>
+    <string name="login">Login</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register_here"><u>Register Here</u></string>
+    <string name="new_User">New User?</string>
+
+    <!-- Strings related to login -->
+</resources>

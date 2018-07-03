@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444007327553",
+    "firebase_url": "https://safety-ring.firebaseio.com",
+    "project_id": "safety-ring",
+    "storage_bucket": "safety-ring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444007327553:android:97d854dc4616a50a",
+        "android_client_info": {
+          "package_name": "com.example.lizamathur.safetyring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444007327553-pktp5qochod7lp5e6a3e9qq0s507d53s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lizamathur.safetyring",
+            "certificate_hash": "d33cb91f1f28fe147290ce74eba8ea12ef093d29"
+          }
+        },
+        {
+          "client_id": "444007327553-69sjenpiqi3suishv8ebpua09778r0np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnTi1g_AmZFobwzE7HZCXTmPV7ScI16s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444007327553-69sjenpiqi3suishv8ebpua09778r0np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

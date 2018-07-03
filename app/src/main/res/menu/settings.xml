@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/setting"
+        android:title="Settings"
+        android:icon="@drawable/ic_menu_black_24dp"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/search"
+        android:title="Edit Profile"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/version"
+        android:title="Version"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="never"></item>
+</menu>
